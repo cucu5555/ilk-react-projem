@@ -12,6 +12,8 @@ const Navbar = () => {
         <ul>
           <li><Link to="/">Ana Sayfa</Link></li>
           <li><Link to="/profile">Profil</Link></li>
+          <li><Link to="/about">Hakkımızda</Link></li>
+          <li><Link to="/news">Haberler</Link></li>
         </ul>
       </div>
       <div className="navbar-right">
